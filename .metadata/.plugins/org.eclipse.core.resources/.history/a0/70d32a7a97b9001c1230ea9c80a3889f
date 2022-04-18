@@ -1,0 +1,15 @@
+package com.abhisheksah;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+@Service 
+public class BookService {
+
+	public List<Book> getBookData(String bookid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

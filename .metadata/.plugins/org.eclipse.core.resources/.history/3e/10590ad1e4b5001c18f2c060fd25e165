@@ -1,0 +1,8 @@
+package com.abhisheksah.service;
+
+import com.abhisheksah.entity.User;
+
+public interface UserService {
+
+	public User getUser(Long id);
+}

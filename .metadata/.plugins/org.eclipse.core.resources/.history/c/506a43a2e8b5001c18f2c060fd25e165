@@ -1,0 +1,5 @@
+package com.abhisheksah.entity;
+
+public class Contact {
+
+}

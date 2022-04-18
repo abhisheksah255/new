@@ -1,0 +1,5 @@
+package com.abhisheksah.configuration;
+
+public class SwaggerConfiguration {
+
+}
